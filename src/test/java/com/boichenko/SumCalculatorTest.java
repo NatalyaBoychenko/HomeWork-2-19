@@ -30,6 +30,7 @@ class SumCalculatorTest {
         int expected = 6;
 
         assertEquals(expected, actual);
+
     }
 
     @Test
